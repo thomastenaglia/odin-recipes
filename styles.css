@@ -24,3 +24,19 @@ a {
   text-decoration: none;
   padding: 16px;
 }
+
+img {
+  border: black 3px solid;
+  width: 450px;
+  height: auto;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.back {
+  border: red 2px solid;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 50%;
+}

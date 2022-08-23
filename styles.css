@@ -9,13 +9,13 @@ h1 {
   text-align: center;
 }
 
-ul {
+.menu {
   font-weight: bold;
   text-align: center;
   list-style-type: none;
 }
 
-li {
+.menu li {
   display: inline;
 }
 
